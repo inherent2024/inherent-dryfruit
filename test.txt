@@ -1,0 +1,4 @@
+cd ~India/workspace/inherent-dryfruit/
+git add .
+git commit -m "change logo"
+git push origin main
